@@ -1,4 +1,4 @@
-# MIST-web
+# Breakthecovidchain-web
 
 ## Setup Instructions
 
