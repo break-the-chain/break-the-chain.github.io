@@ -44,4 +44,4 @@ sudo apt-get update && sudo apt-get dist-upgrade
 
 ## Questions?
 
-Feel free to reach out to [Baraa Hamodi](mailto:bhamodi@edu.uwaterloo.ca) if you have any questions regarding this website.
+Feel free to reach out to [Lakshay Sharma](mailto:lakshays@my.yorku.ca) if you have any questions regarding this website.
